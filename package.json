@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-chatbot",
+  "version": "1.0.0",
+  "description": "Portfolio with a secure Gemini chatbot.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Prachi Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
